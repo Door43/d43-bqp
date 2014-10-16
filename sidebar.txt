@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bqp:home|Door43 (bqp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bqp|d43-bqp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bqp/archive/master.zip|d43-bqp.zip]]
+
+**Recent Changes**
+{{changes>ns = bqp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bqp|Ethnologue data]]
+
